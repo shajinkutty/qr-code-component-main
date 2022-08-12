@@ -22,7 +22,7 @@ This website build with CSS flex property. it is awsome and very cool feature in
 
 ### Screenshot
 
-![](./design/screenshot.jpg)
+![](https://github.com/shajinkutty/qr-code-component-main/blob/master/design/Screenshot.jpg?raw=true)
 
 ### Links
 
