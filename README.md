@@ -22,13 +22,13 @@ This website build with CSS flex property. it is awsome and very cool feature in
 
 ### Screenshot
 
-![](./design/screenshot.jpg)
+![](https://github.com/shajinkutty/qr-code-component-main/blob/master/design/Screenshot.jpg?raw=true)
 
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://shajinkutty.github.io/qr-code-component-main/](https://shajinkutty.github.io/qr-code-component-main/)
 
 ## My process
 
